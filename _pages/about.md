@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Raphael Phan](https://www.monash.edu
 
 You can find my CV here: [Zhuoyu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](zhuoyu.wu@monash.edu) / [Github](https://github.com/ReaganWu)
+[Email](zhuoyu.wu@monash.edu) / [Github](https://github.com/ReaganWu) / [Google Scholar](https://scholar.google.com/citations?user=iAdEypoAAAAJ&hl=zh-CN)
